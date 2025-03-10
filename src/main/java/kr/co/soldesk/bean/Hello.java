@@ -2,5 +2,5 @@ package kr.co.soldesk.bean;
 
 public interface Hello {
 	
-	void sayHello();
+	void sayHello();//by 시꺼먼놈
 }
